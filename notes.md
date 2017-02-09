@@ -520,11 +520,12 @@ You may be able to see some problems with this approach. Next week we will look 
 
 ##References / Further reading
 * Professional JavaScript for Web Developers, Third Edition
-by  Nicholas C. Zakas - Chapert 24 Best Practices
+by  Nicholas C. Zakas - Chapter 24 Best Practices
 * Learning JavaScript Design Patterns - http://addyosmani.com/resources/essentialjsdesignpatterns/book/#modulepatternjavascript
 * Using Objects to Organize Your Code - http://rmurphey.com/blog/2009/10/15/using-objects-to-organize-your-code/
 * How Do You Structure JavaScript? The Module Pattern Edition - https://css-tricks.com/how-do-you-structure-javascript-the-module-pattern-edition/
 * Global Variables Are Bad - http://c2.com/cgi/wiki?GlobalVariablesAreBad
 * Namespacing in JavaScript - https://msdn.microsoft.com/en-us/magazine/gg578608.aspx
+* Code Organisation in jQuery - https://learn.jquery.com/code-organization/ 
 
 
